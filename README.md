@@ -72,8 +72,6 @@ Data Analysis
 
 15 Find Pair Plot
 
-16 Check the Data set is balanced or not based on target values in classification
-
 Feature Engingineering
 
 Drop unwanted features
