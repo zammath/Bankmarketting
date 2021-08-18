@@ -97,3 +97,12 @@ default feature does not play important role
 it seems some outliers found (age, balance, duration, compaign and previous has some outliers)
 
 Conclusion
+
+ This analysis can be carried out at the level of individual bank branches as does not require sick resources and special knowledge (the model itself can be launched automatically with a certain periodicity)
+Potentially similar micro-targeting will increase the overall effectiveness of the entire marketing company.
+ 
+ 1 predicting the future results of marketing companies based on available statistics and, accordingly, formulating recommendations for such companies in the future.
+  
+  2 building a profile of a consumer of banking services (deposits).
+  
+  3 make recommendations for future campaigns
